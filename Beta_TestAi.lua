@@ -22,7 +22,7 @@
 ------------------------------------------------------------
 -- CONFIG
 ------------------------------------------------------------
-local API_KEY = "AQ.Ab8RN6LXFWjFC2BDGcD-M9cDYAbVr48q1glIqAB51n6QfE_7ng"
+local API_KEY = "ga_bolehh"
 
 -- Fastest family option if enabled for your API project.
 -- If unavailable, use gemini-3.6-flash.
