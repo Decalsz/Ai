@@ -660,7 +660,7 @@ end
 ------------------------------------------------------------
 loadHistory()
 build()
-notify("Ai script (Beta⚠️Test) ","Loaded")
+notify("Ai_BetaTest","Loaded")
 '''
 Path('/mnt/data/Mini_AI_Assistant_V7.lua').write_text(lua, encoding='utf-8')
 print(len(lua.splitlines()))
